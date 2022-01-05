@@ -20,7 +20,7 @@ Stock-analysis
 
     In regards to the VBA Script time execution, the refactored script is ~80% faster vs. the original script. Below please find a detailed comparison
 
-![](Time Execution Comparison.png)
+![](TimeExecutionComparison.png)
 
    Summary
 
