@@ -2,7 +2,7 @@ Stock-analysis
 
     Overview of Project
 
-    Steve is conducting a research on stocks to help his parents addressing its wealth management planning. We have developed an algorithm in VBA to help him analyze thousands of stocks, furthermore we have improved our algorithm to reduce the time it takes to execute.
+    Steve is conducting a research on stocks to help his parents addressing their wealth management planning. We have developed an algorithm in VBA to help him analyze thousands of stocks, furthermore we have improved our algorithm to reduce the time it takes to execute.
         
     Purpose
 
