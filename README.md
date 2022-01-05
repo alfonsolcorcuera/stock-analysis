@@ -2,7 +2,7 @@ Stock-analysis
 
     Overview of Project
 
-    Steve is conducting a research on stocks to help his parents addresing its wealth management planning. We have developed an algorithm in VBA to help him analyze thousands of stocks, furthermore we have improved our algorithm to reduce the time it takes to execute.
+    Steve is conducting a research on stocks to help his parents addressing its wealth management planning. We have developed an algorithm in VBA to help him analyze thousands of stocks, furthermore we have improved our algorithm to reduce the time it takes to execute.
         
     Purpose
 
@@ -26,5 +26,5 @@ Stock-analysis
 
    The advantages of refactoring a code are material, if the refactoring is done correctly there can be a material reduction in time execution. However, potential disadvantages may be reflected in the time it takes to refactor the code, which could be timely if we are not familiar with the design pattern. 
    
-   Regarding the VBA Script of this project,  by refactoring the code we obtained the great advantage of reducing the time execution by ~80%. The only minor disadvantage was the time it took me to refactor the code.
+   Regarding the VBA Script of this project, by refactoring the code we obtained the great advantage of reducing the time execution by ~80%. The only minor disadvantage was the time it took me to refactor the code.
     
